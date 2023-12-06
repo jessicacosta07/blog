@@ -10,7 +10,9 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Pages
+![image](https://github.com/jessicacosta07/blog/assets/65916297/fc12bc91-a12e-42c4-aa27-3fa66fc06d28)
 
+![image](https://github.com/jessicacosta07/blog/assets/65916297/85691bcc-b237-44f9-85f8-6a09c8539837)
 
 ### References
 https://www.pokemon.com/br/pokedex/
