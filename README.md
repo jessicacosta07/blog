@@ -11,3 +11,9 @@
 
 ## Pages
 
+
+### References
+https://www.pokemon.com/br/pokedex/
+
+
+
