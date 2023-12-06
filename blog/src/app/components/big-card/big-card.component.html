@@ -1,23 +1,17 @@
 <div class="container__big-card">
   <div class="big-card__photo">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/2560px-Placeholder_view_vector.svg.png"
-      alt=""
-      height="200px"
-      srcset=""
-    />
+    <img src="{{ photoCover }}" alt="" height="200px" srcset="" />
   </div>
   <div class="big-card__title">
-    <h1><a href="#">Saiu uma nova versão do angular</a></h1>
+    <h1>
+      <h1>
+        <a [routerLink]="['content', Id]">{{ cardTitle }}</a>
+      </h1>
+    </h1>
   </div>
   <div class="big-card__description">
     <p>
-      <a href="#"
-        >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec
-        tempus lacus. Interdum et malesuada fames ac ante ipsum primis in
-        faucibus. Nulla laoreet facilisis lacus, eu hendrerit neque gravida
-        quis.</a
-      >
+      <a [routerLink]="['content', Id]">{{ cardDescription }}</a>
     </p>
   </div>
 </div>
